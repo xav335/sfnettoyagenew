@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://www.modul-ouest.com/</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.modul-ouest.com/presentation.php</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.modul-ouest.com/amenagements.php</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.modul-ouest.com/actualites.php</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.modul-ouest.com/livre-dor.php</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.modul-ouest.com/contact.php</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.modul-ouest.com/demande_rappel.php</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.modul-ouest.com/amenagement-detail.php?id=9</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.modul-ouest.com/amenagement-detail.php?id=1</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.modul-ouest.com/amenagement-detail.php?id=12</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.modul-ouest.com/amenagement-detail.php?id=10</loc>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://www.modul-ouest.com/fichier/pdf/test-1.pdf</loc>
+  <lastmod>2015-12-08T11:30:13+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+</urlset>
