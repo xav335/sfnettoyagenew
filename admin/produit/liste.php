@@ -26,6 +26,7 @@
 		unset( $recherche );
 		if ( $id_categorie != '' ) $recherche[ "id_categorie" ] = $id_categorie;
 		$liste_produit = $produit->getListe( $recherche, $debug );
+		//print_r($liste_produit);
 	}
 	// -------------------------------------------- //
 
@@ -98,7 +99,7 @@
 							<tr>
 								<th class="col-md-2" style="">Titre</th>
 								<th class="col-md-2" style="">Catégorie</th>
-								<th class="col-md-5" style="">Description</th>
+								<th class="col-md-5" style="">Titre</th>
 								<th class="col-md-1" style="">Photo</th>
 								<th class="col-md-1" style="">Accueil</th>
 								<th class="col-md-1" style="">Online</th>
@@ -119,8 +120,8 @@
 									$image_defaut = $produit_image->getImageDefaut( $value[ "id" ], $debug );
 									
 									$classe_affichage = ( $i % 2 != 0 ) ? "info" : "";
-									$description = couper_correctement( $value[ "description" ], 50 );
-									if ( strlen( $value[ "description" ] ) > 50 ) $description .= " ...";
+									$description = couper_correctement( $value[ "nom" ], 50 );
+									if ( strlen( $value[ "nom" ] ) > 50 ) $description .= " ...";
 									$image_ok = ( $image_defaut[ "fichier" ] != '' ) ? 'check' : 'vide';
 									$accueil = ( $value[ "accueil" ] == '1' ) ? 'check' : 'vide';
 									$online = ( $value[ "online" ] == '1' ) ? 'check' : 'vide';

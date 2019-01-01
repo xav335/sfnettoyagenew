@@ -17,7 +17,7 @@ p {font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:18px;text-a
 .fullwidth {max-width:none;}
 .center {text-align:center;}
 
-.top {padding:20px 0;}
+.top {padding:15px 0;text-align: center;}
 
 .top-of-page {background:#e5e5e5;}
 
