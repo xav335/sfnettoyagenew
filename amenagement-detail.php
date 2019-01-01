@@ -51,7 +51,7 @@
 <!doctype html>
 <html class="no-js" lang="fr">
 	<head>
-		<title>Les différents aménagements de Modul-Ouest</title>
+		<title>Les différents aménagements de SFnettoyage.com</title>
 		<? include( $_SERVER[ "DOCUMENT_ROOT" ] . "/inc/header.php" ); ?>
 	</head>
 	
@@ -132,7 +132,7 @@
 		
 		<script>
 			$(document).ready(function(){
-				$('.menu li:nth-child(3)').addClass('active');
+				$('.menu li:nth-child(2)').addClass('active');
 			});
 		</script>
 		

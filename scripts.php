@@ -43,7 +43,7 @@
 					position: new google.maps.LatLng(44.881667, -0.46348699999998644),
 					map: map,
 					icon: 'img/marker.png',
-					title: 'Modul-Ouest'
+					title: 'SFnettoyage.com'
 				});
 			}
 			

@@ -3,17 +3,17 @@
 			<div id="map-canvas"></div>
 		</div>
 		<div class="large-4 medium-4 small-12 columns">
-			<h3>MODUL-OUEST</h3>
-			<p>SARL 40141433900036</p>
+			<h3>SFnettoyage.com</h3>
+			<p></p>
 			<p>
-				Za Tabernotte Sud<br/>
-				33370 YVRAC
+				2 chemin du port de l'homme<br/>
+				33360 Latresne
 			</p>
 			<p>
-				Tél. 05 56 74 25 25<br/>
-				Fax 05 56 74 28 28
+				Tél. 06 63 30 05 26<br/>
+		
 			</p>
-			<p>Email : commercial@modul-ouest.com</p>
+			<p>Email : contact@sfnettoyage.com</p>
 			<p><a href="<?=FACEBOOK_LINK?>" class="facebook" title="Facebook" target="_blank"></a><a href="<?=DAILYMOTION_LINK?>" class="dailymotion" title="Dailymotion" target="_blank"></a></p>
 			<form id="form_news" action="#" method="post">
 				<input type="hidden" name="as" value="" />

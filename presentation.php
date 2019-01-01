@@ -1,7 +1,7 @@
 <!doctype html>
 <html class="no-js" lang="fr">
 	<head>
-		<title>Présentation de Modul-Ouest</title>
+		<title>Présentation de SFnettoyage.com</title>
 		<? include( $_SERVER[ "DOCUMENT_ROOT" ] . "/inc/header.php" ); ?>
 	</head>
 <body class="page">
@@ -14,7 +14,7 @@
 
 		<div class="large-12 columns">
 			
-			<h1>Présentation de Modul-Ouest</h1>
+			<h1>Présentation de SFnettoyage.com</h1>
 			
 		</div>
 

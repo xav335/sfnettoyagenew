@@ -83,7 +83,7 @@
 <!doctype html>
 <html class="no-js" lang="fr">
 	<head>
-		<title>Livre d'or de Modul-Ouest</title>
+		<title>Livre d'or de SFnettoyage.com</title>
 		<? include( $_SERVER[ "DOCUMENT_ROOT" ] . "/inc/header.php" ); ?>
 	</head>
 <body class="page">
@@ -95,7 +95,7 @@
 		<? include( $_SERVER[ "DOCUMENT_ROOT" ] . "/rappel.php" ); ?>
 
 		<div class="large-12 columns">
-			<h1>Livre d'or</h1>
+			<h1>Notre livre d'or</h1>
 		</div>
 		
 		<?
@@ -105,7 +105,7 @@
 			foreach( $liste_commentaire as $_commentaire ) {
 				echo "<div class='row temoignage'>\n";
 				echo "	<div class='large-12 columns'>\n";
-				echo "		<h3>Témoignage #" . $cpt . "</h3>\n";
+				echo "		<h3>Témoignage de " . $_commentaire[ "nom" ] . "</h3>\n";
 				echo "		<p>" . nl2br( $_commentaire[ "message" ] ) . "</p>\n";
 				echo "	</div>\n";
 				echo "</div>\n";
@@ -145,7 +145,7 @@
 	<script>
 		
 		$(document).ready(function(){
-			$('.menu li:nth-child(5)').addClass('active');
+			$('.menu li:nth-child(4)').addClass('active');
 			
 			// ---- Validation du formulaire ---------------------------- //
 			if ( 1 == 1 ) {

@@ -102,7 +102,7 @@ if (!empty($_GET)){ //Modif
 								<img src="img/del.png" width="20" alt="Supprimer" onclick="clearImage(<?php echo $i ?>)"/>
 								<br>
 		 						<label for="link<?php echo $i ?>">Url image <?php echo $i ?>:</label><br>
-		 						<input type="text" class="col-sm-11" name="link<?php echo $i ?>"  id="link<?php echo $i ?>" value="http://www.votreimmopro.com/" ><br>
+		 						<input type="text" class="col-sm-11" name="link<?php echo $i ?>"  id="link<?php echo $i ?>" value="http://www.sfnettoyage.com/" ><br>
 		 						<br>
 		 						<label for="text<?php echo $i ?>">Texte <?php echo $i ?>:</label><br>
 				           		<textarea class="col-sm-11"  name="texte<?php echo $i ?>"  id="texte<?php echo $i ?>" rows="2" ></textarea>
@@ -124,7 +124,7 @@ if (!empty($_GET)){ //Modif
 								<img src="img/del.png" width="20" alt="Supprimer" onclick="clearImage(<?php echo $i ?>)"/>
 								<br>
 		 						<label for="link<?php echo $i ?>">Url image <?php echo $i ?>:</label><br>
-		 						<input type="text" class="col-sm-11" name="link<?php echo $i ?>"  id="link<?php echo $i ?>" value="http://www.votreimmopro.com/" ><br>
+		 						<input type="text" class="col-sm-11" name="link<?php echo $i ?>"  id="link<?php echo $i ?>" value="http://www.sfnettoyage.com/" ><br>
 		 						<br>
 		 						<label for="text<?php echo $i ?>">Texte <?php echo $i ?>:</label><br>
 				           		<textarea class="col-sm-11"  name="texte<?php echo $i ?>"  id="texte<?php echo $i ?>" rows="2" ></textarea>

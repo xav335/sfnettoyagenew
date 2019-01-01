@@ -23,7 +23,7 @@
 <!doctype html>
 <html class="no-js" lang="fr">
 	<head>
-		<title>Les différents aménagements de Modul-Ouest</title>
+		<title>Les différentes prestations de SFnettoyage.com</title>
 		<? include( $_SERVER[ "DOCUMENT_ROOT" ] . "/inc/header.php" ); ?>
 	</head>
 	
@@ -36,7 +36,7 @@
 			<? include( $_SERVER[ "DOCUMENT_ROOT" ] . "/rappel.php" ); ?>
 	
 			<div class="large-12 columns">
-				<h1>Les aménagements modul-ouest</h1>
+				<h1>Nos prestations</h1>
 			</div>
 			
 			<?
@@ -173,7 +173,7 @@
 		
 		<script>
 			$(document).ready(function(){
-				$('.menu li:nth-child(3)').addClass('active');
+				$('.menu li:nth-child(2)').addClass('active');
 			});
 		</script>
 		

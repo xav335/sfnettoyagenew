@@ -48,7 +48,7 @@
 <!doctype html>
 <html class="no-js" lang="fr">
 	<head>
-		<title>Contactez Modul-Ouest</title>
+		<title>Contactez SFnettoyage.com</title>
 		<? include( $_SERVER[ "DOCUMENT_ROOT" ] . "/inc/header.php" ); ?>
 	</head>
 	<body class="page">
@@ -64,7 +64,7 @@
 			</div>
 				
 			<div class="large-12 medium-12 small-12 columns">
-				<h3>MODUL-OUEST</h3>
+				<h3>SF Nettoyage & Services</h3>
 				<p>
 					Pour une mise en relation immédiate et gratuite, veuillez saisir le numéro de téléphone où vous pouvez être joint immédiatement.
 				</p>

@@ -64,7 +64,7 @@
 		if ( !empty( $liste_produit ) ) {
 			$contenu_produit = "<div class='row amenagements'>\n";
 			$contenu_produit .= "	<div class='large-12 columns'>\n";
-			$contenu_produit .= "		<h1>Nos aménagements</h1>\n";
+			$contenu_produit .= "		<h1>Nos prestations</h1>\n";
 			$contenu_produit .= "	</div>\n";
 			$contenu_produit .= "	<div class='swiper-wrapper'>\n";
 			
@@ -94,7 +94,7 @@
 <!doctype html>
 <html class="no-js" lang="fr">
 	<head>
-		<title>Modul-Ouest - aménagement, transformation de véhicules utilitaires</title>
+		<title>SFnettoyage.com - aménagement, transformation de véhicules utilitaires</title>
 		<? include( $_SERVER[ "DOCUMENT_ROOT" ] . "/inc/header.php" ); ?>
 	</head>
 <body>
@@ -108,20 +108,41 @@
 
 		<div class="<?=$classe_texte?>">
 			
-			<h1>Présentation de modul-ouest</h1>
-			<h3>Equipez votre véhicule, Pensez MODUL OUEST <br>
-                Spécialiste de l’aménagement et transformation de tous les véhicules utilitaires
-            </H3>
-            <br>
-			<p>
-			   Crée en 1995 et fort de ses collaborateurs expérimentés,
-               MODUL OUEST répond à vos attentes et vous propose un service sur mesure.
-            </p>
-               
-            <p>   
-               Grace à notre expérience et notre écoute, nous vous offrons des aménagements et équipements personnalisés, de qualité, respectant les délais livraison.
-            </p>
-
+			<h1>Présentation</h1>
+			
+			
+			<p><strong>Je  vous propose  mes services  pour  des  prestations  occasionnelles ou régulières:</strong></p>
+			<p><strong>Tous les travaux de:</strong></p>
+			
+			<div class="large-6 medium-6 small-12 columns">
+			
+    			<h3>Nettoyage vitrine</h3>
+    			  <ul>
+                        <li>Particuliers</li>
+                        <li>Professionnels</li>
+                    </ul>
+    			<h3>Remise en état</h3>
+                    <ul>
+                        <li>fin de chantier</li>
+                        <li>fin de location</li>
+                        <li>vitres, sols, cuisines, salles de bains</li>
+                    </ul>
+            </div>
+            <div class="large-6 medium-6 small-12 columns">
+                <h3>Nettoyage à l'eau pure</h3>
+                    <ul>
+                        <li>panneaux photovoltaïques</li>
+                        <li>verandas</li>
+                    </ul>
+                    
+                <h3>Entretien de locaux professionnels</h3>
+            </div>   
+            
+            <div class="large-12 medium-12 small-12 columns"> 
+                 <p><strong><a href="contact.php">DEVIS GRATUIT</a> - TRAVAIL AUX FORFAITS</strong></p>
+                <p><strong>Règlement en chèque, CESU, ou autre</strong></p>
+           </div>
+           
 		</div>
 		
 		<?

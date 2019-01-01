@@ -82,7 +82,7 @@
 <!doctype html>
 <html class="no-js" lang="fr">
 	<head>
-		<title>Contactez Modul-Ouest</title>
+		<title>Contactez SFnettoyage.com</title>
 		<? include( $_SERVER[ "DOCUMENT_ROOT" ] . "/inc/header.php" ); ?>
 	</head>
 	<body class="page">
@@ -95,8 +95,8 @@
 			
 			<div class="large-12 columns">
 				
-				<h1>Contactez Modul-Ouest</h1>
-				
+				<h1>Contactez SF Nettoyage & Services</h1>
+				<h2>Demande de devis</h2>
 			</div>
 			
 			<div id="div_success" class="large-12 medium-12 small-12 columns <?=$affichage_success?>">
@@ -113,17 +113,16 @@
 			</div>
 			
 			<div class="large-4 medium-6 small-12 columns">
-				<h3>MODUL-OUEST</h3>
-				<p>SARL 40141433900036</p>
+				<h3>SF Nettoyage & Services</h3>
+				<p></p>
 				<p>
-					Za Tabernotte Sud<br/>
-					33370 YVRAC
+					2 chemin du port de l'homme<br/>
+					33360 LATRESNE
 				</p>
 				<p>
-					Tél. 05 56 74 25 25<br/>
-					Fax 05 56 74 28 28
+					Tél. 06 63 30 05 26<br/>
 				</p>
-				<p>Email : commercial(at)modul-ouest.com</p>
+				<p>Email : contact@sfnettoyage.com</p>
 			</div>
 			<div class="large-8 medium-6 small-12 columns">
 				<form id="formulaire" class="row contact" method="post" action="contact.php">

@@ -43,7 +43,7 @@
 	define( "MAILCUSTOMER", 	"NePasRepondre@sfnettoyage.com" );
 	define( "MAILNAMECUSTOMER", "Modul Ouest" );
 	define( "URLSITEDEFAULT", 	"http://www.sfnettoyage.com/" );
-	define( "FACEBOOK_LINK", 	"https://www.facebook.com/sfnettoyage" );
+	define( "FACEBOOK_LINK", 	"https://www.facebook.com/sfnettoyage/" );
 	define( "DAILYMOTION_LINK", "http://www.dailymotion.com/video/x43ijxj" );
 	
 	// ---- Mail d'envoi

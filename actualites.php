@@ -13,7 +13,7 @@
 <!doctype html>
 <html class="no-js" lang="fr">
 	<head>
-		<title>Actualité de Modul-Ouest</title>
+		<title>Actualité de SFnettoyage.com</title>
 		<? include( $_SERVER[ "DOCUMENT_ROOT" ] . "/inc/header.php" ); ?>
 	</head>
 	<body class="page">
@@ -25,7 +25,7 @@
 			<? include( $_SERVER[ "DOCUMENT_ROOT" ] . "/rappel.php" ); ?>
 			
 			<div class="large-12 columns">
-				<h1>Actualité de modul-ouest</h1>
+				<h1>Actualité / Evenements</h1>
 			</div>
 			
 			<?
@@ -61,7 +61,7 @@
 		
 		<script>
 			$(document).ready(function(){
-				$('.menu li:nth-child(4)').addClass('active');
+				$('.menu li:nth-child(3)').addClass('active');
 			});
 		</script>
 		
