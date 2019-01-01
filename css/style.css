@@ -72,16 +72,16 @@ p {font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:18px;text-a
 .actu, .temoignage {padding:15px 0;}
 .actu:nth-child(2n+2), .temoignage:nth-child(2n+2) {background:#e5e5e5;}
 
-.inscription {background:#222;padding:30px;}
+.inscription {background:#6699cc;padding:30px;}
 .inscription h3 {text-align:center;color:#fff;}
-.inscription input, .inscription textarea {background:#444;border:none;}
+.inscription input, .inscription textarea {background:#FFF;border:none;}
 .inscription input.erreur, .inscription textarea.erreur {
 	border:1px solid #CC3300;
 }
 .inscription textarea {height:143px;resize:none;}
 .inscription .columns:last-child {text-align:center;}
-.inscription input[type="submit"] {font-family:'MyriadPro-Bold';font-size:18px;line-height:25px;padding:10px 30px;border-radius:25px;background:#444;text-transform:uppercase;color:#222;}
-.inscription input[type="submit"]:hover {background:#6699cc;color:#fff;}
+.inscription input[type="submit"] {font-family:'MyriadPro-Bold';font-size:18px;line-height:25px;padding:10px 30px;border-radius:25px;background:#173a64;text-transform:uppercase;color:#FFF;}
+.inscription input[type="submit"]:hover {background:#336699;color:#fff;}
 
 .contact textarea {height:175px;resize:none;}
 .contact input.erreur, .contact textarea.erreur {
