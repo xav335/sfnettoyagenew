@@ -94,7 +94,7 @@
 <!doctype html>
 <html class="no-js" lang="fr">
 	<head>
-		<title>SFnettoyage.com - aménagement, transformation de véhicules utilitaires</title>
+		<title>SFnettoyage.com - Entreprise de nettoyage pour particuliers et professionnels (vitres, locaux, chantiers) </title>
 		<? include( $_SERVER[ "DOCUMENT_ROOT" ] . "/inc/header.php" ); ?>
 	</head>
 <body>
