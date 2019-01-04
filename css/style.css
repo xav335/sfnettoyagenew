@@ -125,19 +125,22 @@ p {font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:18px;text-a
 
 
 @media screen and (max-width:1024px) {
-	
+.facebk	{display: none;}
 }
 @media screen and (max-width:768px) {
 .amenagements {display: none;}
+.facebk	{display: none;}
 }
 @media screen and (max-width:480px) {
 .amenagements {display: none;}
-	
+.facebk	{display: none;}
 
 }
 @media screen and (max-width:375px) {
 .amenagements {display: none;}
+.facebk	{display: none;}
 }
 @media screen and (max-width:320px) {
 .amenagements {display: none;}
+.facebk	{display: none;}
 }

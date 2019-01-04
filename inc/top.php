@@ -6,7 +6,7 @@
 			<a href="/"><img src="img/sfnettoyagelogo.png" alt="SFnettoyage.com" /></a>
 		</div>
 		<div class="large-3 medium-3 small-12 columns center top ">
-			<a href="tel:+33663300526" class="telephone">06 63 30 05 26</a>
+			<a href="tel:+33663300526" class="telephone">06&nbsp;63&nbsp;30&nbsp;05&nbsp;26</a>
 		</div>
 	</div>
 	<div class="row fullwidth menu">
