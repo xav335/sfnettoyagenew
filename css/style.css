@@ -12,12 +12,12 @@ a:focus, a:hover {color:#336699;}
 
 p {font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:18px;text-align:justify;}
 
-.telephone {position:absolute;font-weight:bold;font-size:30px;text-transform:uppercase;color:#000;display:block;top:90px;left:50%;margin-left:-90px;}
+.telephone {font-weight:bold;font-size:30px;text-transform:uppercase;color:#000;top:90px;}
 
 .fullwidth {max-width:none;}
 .center {text-align:center;}
 
-.top {padding:15px 0;text-align: center;}
+.top {padding:15px 0; }
 
 .top-of-page {background:#e5e5e5;}
 
@@ -125,19 +125,19 @@ p {font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:18px;text-a
 
 
 @media screen and (max-width:1024px) {
-	.telephone {font-size:25px;top:20px;left:100%;margin-left:-150px;}
 	
 }
 @media screen and (max-width:768px) {
-
-.telephone {font-size:25px;top:0px;}
+.amenagements {display: none;}
 }
 @media screen and (max-width:480px) {
-	.telephone {font-size:25px;top:0px;}
+.amenagements {display: none;}
+	
+
 }
 @media screen and (max-width:375px) {
-	.telephone {margin-left:-170px;}
+.amenagements {display: none;}
 }
 @media screen and (max-width:320px) {
-	.telephone {margin-left:-150px;}
+.amenagements {display: none;}
 }

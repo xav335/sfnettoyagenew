@@ -55,10 +55,10 @@
 		<? include( $_SERVER[ "DOCUMENT_ROOT" ] . "/inc/header.php" ); ?>
 	</head>
 	
-	<body>
+	<body class="page">
 		
 		<? include( $_SERVER[ "DOCUMENT_ROOT" ] . "/inc/top.php" ); ?>
-	<br>
+	
 		<div class="row contenu">
 			
 			<? include( $_SERVER[ "DOCUMENT_ROOT" ] . "/rappel.php" ); ?>

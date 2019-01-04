@@ -1,3 +1,4 @@
+<?php require( $_SERVER[ "DOCUMENT_ROOT" ] . "/inc/inc.config.php" );?>
 <?php include_once 'inc-auth-granted.php';?>
 <?php include_once 'classes/utils.php';?>
 

@@ -1,11 +1,11 @@
 	<div class="row fullwidth center top-of-page">
-		<div class="large-4 medium-4 small-12 columns top">
+		<div class="large-3 medium-3 small-12 columns top">
 		     &nbsp;
 		</div>
-		<div class="large-4 medium-4 small-12 columns top">
+		<div class="large-6 medium-6 small-12 columns top">
 			<a href="/"><img src="img/sfnettoyagelogo.png" alt="SFnettoyage.com" /></a>
 		</div>
-		<div class="large-4 medium-4 small-12 columns top">
+		<div class="large-3 medium-3 small-12 columns center top ">
 			<a href="tel:+33663300526" class="telephone">06 63 30 05 26</a>
 		</div>
 	</div>
