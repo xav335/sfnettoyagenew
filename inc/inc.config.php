@@ -7,7 +7,7 @@
 		// ---- Serveur local Franck -------- //
 		case "/var/www/sfnettoyagenew" :
 			$localhost = "localhost";
-			$dbname = "sfnettoyagenew";
+			$dbname = "sfnettoyage";
 			$user = "global";
 			$mdp = "global";
 			break;
@@ -15,23 +15,23 @@
 		// ---- Serveur PRE-PROD ------------ //
 		case "/home/web/sfnettoyagenew" :
 			$localhost = "localhost";
-			$dbname = "sfnettoyagenew";
-			$user = "sfnettoyagenew";
-			$mdp = "sfnettoyagenew33";
+			$dbname = "sfnettoyage";
+			$user = "sfnettoyage";
+			$mdp = "sfnettoyage33";
 			break;
 		
 		// ---- Serveur PROD ---------------- //
 		case "/var/www/sfnettoyage.com" :
 			$localhost = "localhost";
-			$dbname = "sfnettoyagenew";
-			$user = "sfnettoyagenew";
-			$mdp = "sfnettoyagenew33";
+			$dbname = "sfnettoyage";
+			$user = "sfnettoyage";
+			$mdp = "sfnettoyage33";
 			break;
 		default:
 		    $localhost = "localhost";
-		    $dbname = "sfnettoyagenew";
-		    $user = "sfnettoyagenew";
-		    $mdp = "sfnettoyagenew33";
+		    $dbname = "sfnettoyage";
+		    $user = "sfnettoyage";
+		    $mdp = "sfnettoyage33";
 		    break;
 	}
 		

