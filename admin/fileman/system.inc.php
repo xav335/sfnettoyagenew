@@ -1,3 +1,4 @@
+<?php include_once '../../inc-auth-granted.php';?>
 <?php
 /*
   RoxyFileman - web based file manager. Ready to use with CKEditor, TinyMCE. 
