@@ -50,7 +50,7 @@
 			
 			$sujet = utf8_decode( "Prise de contact" );
 			
-			//$_to = "franck_langleron@hotmail.com";
+			//$_to = "test-7furoxqha@srv1.mail-tester.com";
 			$_to = ( MAIL_TEST != '' )
 		    	? MAIL_TEST
 		    	: MAIL_CONTACT;
